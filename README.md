@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Nikola (@N1Cha)
 - 👀 I’m interested in every kind of projects - game development, web development and desktop applications.
-- 🌱 I’m currently learning Angular and try to upgrade myself in web apps development.
